@@ -1,6 +1,10 @@
+<!DOCTYPE html>
+<html>
 <head>
-<link rel="stylesheet" type="text/css" href="https://github.com/thenotoriousdlc/thenotoriousdlc.github.io/blob/main/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/thenotoriousdlc/thenotoriousdlc.github.io/main/style.css">
 </head>
+<body>
+
 <div>
   <ul>
     <li>
@@ -25,3 +29,5 @@
     </li>
   </ul>
 </div>
+</body>
+</html>
