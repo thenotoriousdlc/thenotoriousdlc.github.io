@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" type="text/css" href="https://github.com/thenotoriousdlc/thenotoriousdlc.github.io/blob/main/style.css">
+</head>
 <div>
   <ul>
     <li>
